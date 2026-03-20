@@ -1,8 +1,8 @@
 # 🎨 P Sowmiya – Graphic Design Portfolio
 
-Hi, I'm Sowmiya 👋
+**Hi, I'm Sowmiya** 👋
 
-A creative Graphic Designer passionate about branding, print design, and textile design.
+**A creative Graphic Designer passionate about branding, print design, and textile design**.
 
 # 👩‍🎨 About Me
 - 🎯 Focused on creative and modern design solutions
