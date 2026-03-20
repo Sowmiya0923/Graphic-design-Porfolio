@@ -19,4 +19,15 @@ I am a dedicated Graphic Design with knowledge of design principles, typography,
 - Social Media Poster
 - Packaging Design
 ### Garment Related Projects
-- Tech Pack Design 
+- Tech Pack Design
+### Printing Design
+- Screen Printing
+- Photo Printing
+- Sublimation Design
+- Rotary Printing
+- Die and Dye Printing
+- Digital Printing
+### Decoration Design
+- Wedding card
+- Invitaion card
+- Stage Decoration
