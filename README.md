@@ -1,58 +1,68 @@
-# 🎨 P Sowmiya – Graphic Design Portfolio
+# P Sowmiya – Graphic Design Portfolio
 
-**Hi, I'm Sowmiya** 👋
+## 👩‍💻 About Me
+Hi, I’m Sowmiya, a passionate Graphic Designer specializing in branding, print media, and textile design. I focus on creating modern, creative, and impactful visual solutions that help brands stand out.
 
-**A creative Graphic Designer passionate about branding, print design, and textile design**.
+- Skilled in branding and visual identity
+- Experience in freelance and portfolio-based projects
+- Strong knowledge of print and textile design
+- Based in Tamil Nadu, India
 
-# 👩‍🎨 About Me
-- 🎯 Focused on creative and modern design solutions
-- 🧵 Skilled in textile and printing design
-- 🎨 Experience in freelance and portfolio projects
-- 📍 Based in Tamil Nadu, India
+## 🛠️ Skills & Tools
+- Adobe Photoshop  
+- Adobe Illustrator  
+- CorelDRAW  
+- Canva  
+- Typography & Layout Design  
+- Print & Production Knowledge
+---
 
-## Graphic Design Portfolio
+## Portfolio
 - <a href="https://github.com/Sowmiya0923/Graphic-design-Porfolio/blob/main/Graphic%20design%20Portfolio.pdf">Graphic Design Portfolio.pdf</a>
+---
 
 ## 📂Portfolio Projects section
 
+### 🔹 Branding & Identity
+- Logo Design  
+- Visiting Cards  
+- ID Cards  
+- Tag Cards (Tear/Rack Cards)
 
-### 🎯 Branding & Identity
-- 🧩 Logo Design
-- 💼 Visiting Card
-- 🪪 ID Card
-- 🏷️ Tag Card (Tear Card / Rack Card)
-### 🖼️ Print & Marketing Designs
-- 📢 Poster Design
-- 🎬 Film Poster
-- 📰 Brochure
-- 📖 Catalogue
-- 🎟️ Flyer
-- 📆 Calendar
-- 📜 Letter Pad
-- 📦 Packaging Design
-- 📏 Roll-up Banner
-- 🧾 Tangler
-### 📱 Digital & Layout Designs
-- 📲 Social Media Poster
-- 📚 Book Layout Design
-### 👗 Garment Related Projects
-- 🧵 Tech Pack Design
-### 🖨️ Printing Designs
-- 🖌️ Screen Printing
-- 📸 Photo Printing
-- 🌈 Sublimation Design
-- 🔄 Rotary Printing
-- 🎨 Dye & Die Printing
-- 💻 Digital Printing
-### 🎉 Decoration Designs
-- 💍 Wedding Card
-- ✉️ Invitation Card
-- 🎭 Stage Decoration
+### 🔹 Print & Marketing Design
+- Posters & Film Posters  
+- Brochures & Catalogues  
+- Flyers & Calendars  
+- Packaging Design  
+- Roll-up Banners & Danglers  
 
-## 💼 Final Thoughts  
+### 🔹 Digital & Layout Design
+- Social Media Creatives  
+- Book Layout Design  
 
-This portfolio showcases my skills in graphic design, branding, and print media.  
-I am passionate about delivering creative and impactful design solutions.  
+### 🔹 Garment Projects
+- Tech Pack Design  
 
-I am open to freelance work, internships, and full-time opportunities.  
-Let’s connect and build something creative together.
+### 🔹 Printing Techniques
+- Screen Printing  
+- Sublimation Printing  
+- Digital Printing  
+- Dye & Tie Printing  
+
+### 🔹 Decoration Designs
+- Wedding Invitations  
+- Event & Stage Design  
+
+---
+
+## 📬 Contact
+- 📧 Email: [sowmiya092311@gmail.com](mailto:sowmiya@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sowmiya](https://linkedin.com/in/sowmiya)
+
+
+---
+
+## 💼 Summary
+This portfolio highlights my expertise in graphic design, branding, and print media. I am passionate about delivering creative and effective design solutions.
+
+I am open to freelance work, internships, and full-time opportunities.
