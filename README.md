@@ -1,5 +1,18 @@
-# Graphic-design-Porfolio
-I am a dedicated Graphic Design with knowledge of design principles, typography, color theory, and layout design. I enjoy transforming ideas into creative visuals using tools like Adobe Photoshop, Illustrator, and Canva.
+# 🎨 P Sowmiya – Graphic Design Portfolio
+
+Hi, I'm Sowmiya 👋
+
+A creative Graphic Designer passionate about branding, print design, and textile design.
+
+# 👩‍🎨 About Me
+- 🎯 Focused on creative and modern design solutions
+- 🧵 Skilled in textile and printing design
+- 🎨 Experience in freelance and portfolio projects
+- 📍 Based in Tamil Nadu, India
+
+## Graphic Design Portfolio
+- <a href="https://github.com/Sowmiya0923/Graphic-design-Porfolio/blob/main/Graphic%20design%20Portfolio.pdf">Graphic Design Portfolio.pdf</a>
+
 ## 📂Portfolio Projects section
 - Logo Design
 - Visiting Card
