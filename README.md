@@ -14,33 +14,45 @@
 - <a href="https://github.com/Sowmiya0923/Graphic-design-Porfolio/blob/main/Graphic%20design%20Portfolio.pdf">Graphic Design Portfolio.pdf</a>
 
 ## 📂Portfolio Projects section
-- Logo Design
-- Visiting Card
-- Id Card
-- Poster Design
-- Catalogue
-- Tangler
-- Broucher
-- Taer Card
-- Rack Card
-- Calender
-- Flyer
-- Flim Poster
-- Rollup Banner
-- Book Layout Design
-- Letter Pad
-- Social Media Poster
-- Packaging Design
-### Garment Related Projects
-- Tech Pack Design
-### Printing Design
-- Screen Printing
-- Photo Printing
-- Sublimation Design
-- Rotary Printing
-- Die and Dye Printing
-- Digital Printing
-### Decoration Design
-- Wedding card
-- Invitaion card
-- Stage Decoration
+
+
+### 🎯 Branding & Identity
+- 🧩 Logo Design
+- 💼 Visiting Card
+- 🪪 ID Card
+- 🏷️ Tag Card (Tear Card / Rack Card)
+### 🖼️ Print & Marketing Designs
+- 📢 Poster Design
+- 🎬 Film Poster
+- 📰 Brochure
+- 📖 Catalogue
+- 🎟️ Flyer
+- 📆 Calendar
+- 📜 Letter Pad
+- 📦 Packaging Design
+- 📏 Roll-up Banner
+- 🧾 Tangler
+### 📱 Digital & Layout Designs
+- 📲 Social Media Poster
+- 📚 Book Layout Design
+### 👗 Garment Related Projects
+- 🧵 Tech Pack Design
+### 🖨️ Printing Designs
+- 🖌️ Screen Printing
+- 📸 Photo Printing
+- 🌈 Sublimation Design
+- 🔄 Rotary Printing
+- 🎨 Dye & Die Printing
+- 💻 Digital Printing
+### 🎉 Decoration Designs
+- 💍 Wedding Card
+- ✉️ Invitation Card
+- 🎭 Stage Decoration
+
+## 💼 Final Thoughts  
+
+This portfolio showcases my skills in graphic design, branding, and print media.  
+I am passionate about delivering creative and impactful design solutions.  
+
+I am open to freelance work, internships, and full-time opportunities.  
+Let’s connect and build something creative together.
