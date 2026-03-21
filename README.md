@@ -56,7 +56,7 @@ Hi, I’m Sowmiya, a passionate Graphic Designer specializing in branding, print
 ---
 
 ## 📬 Contact
-- 📧 Email:sowmiya092311@gmail.com
+- 📧 Email: sowmiya092311@gmail.com
 - 💼 LinkedIn:
 https://linkedin.com/in/sowmiya092311
 
